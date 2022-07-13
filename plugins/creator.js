@@ -21,10 +21,10 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
 *ɴᴀᴍᴇ:* 🅚︎Ⓘ︎🅝︎Ⓖ︎ • 𝐴𝑛𝑑ℎ𝑦𝑐𝑎𝕆𝔽ℂ
-*ᴀɢᴇ:* 19ᵗʰ
+*ᴀɢᴇ:* Privateʸᵉᵃʳˢ
 *sᴛᴀᴛᴜs:* single 
 
-*ʙɪʀᴛʜᴅᴀʏ:* 13 Sep 2002
+*ʙɪʀᴛʜᴅᴀʏ:* 13 September
 *ᴀᴅᴅʀᴇss:* Indonesia, Jawa Barat, Bandung
 
 *- - sᴋɪʟʟs: - -* 
