@@ -5,9 +5,9 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     let image = res.getRandom()
     let link = image
     conn.sendHydrated(m.chat,`
-*${htki} KANNA IMAGE ${htka}*
+*${htki} ANDHYCA IMAGE ${htka}*
 🔎 *Result:* ${text}
-🌎 *Source:* ᴋᴀɴɴᴀ.ᴄᴀʀᴇ
+🌎 *Source:* ᵏⁱⁿᵍ☘︎𝙰𝚗𝚍𝚑𝚢𝚌𝚊
 ⛩ *ɴᴀᴍᴇ ᴜꜱᴇʀ:* ${conn.getName(m.sender)}
 `, wm, link, link, '🔗 URL', null, null, [['Next', `.image ${text}`],[null,null],[null,null]],m)
 }
