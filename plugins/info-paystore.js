@@ -36,13 +36,14 @@ let info = `
 
 –––––– *🐾 Kebijakan* ––––––
 🗣️: Kak, Kok harganya mahal banget?
-💬: Mau tawar menawar? boleh, silahkan chat owner aja (maximal 3K)
+💬: Ada harga ada kualitas kak, mau tawar menawar? boleh, silahkan chat owner aja (maximal 4K)
 
 🗣️: Scam ga nih kak?
 💬: Enggalah
 –––––– *🗳️ Qr Payment* ––––––
 *GoPay :* https://telegra.ph/file/0f1f1b37a5577c73be0f6.jpg
-*Dana :* https://telegra.ph/file/4d91b25a776179f342588.jpg`
+*Dana :* https://telegra.ph/file/4d91b25a776179f342588.jpg
+`
 const sections = [
    {
 	title: `${htjava} SEWA ✦-------`,
