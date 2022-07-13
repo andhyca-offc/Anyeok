@@ -5,13 +5,13 @@ let sh = '5'
 let sn = '15'
 let ss = '30'
 let sp = '35'
-let sv = '65'
+let sv = '50'
 //premium
 let ph = '5'
 let pn = '10'
 let pp = '30'
 let pv = '40'
-let ppm = '57'
+let ppm = '55'
 let info = `
 ╭━━━━「 *SEWA* 」
 ┊⫹⫺ *Hemat:* _${sh}k/grup (1 minggu)_
@@ -31,8 +31,8 @@ let info = `
 
 *⫹⫺ PAYMENT:*
 • *Pulsa:* [${ppulsa}]
-• *Dana:* [${pdana}] Qr: https://telegra.ph/file/4d91b25a776179f342588.jpg
-• *GoPay:* [${pgopay}] Qr: https://telegra.ph/file/0f1f1b37a5577c73be0f6.jpg
+• *Dana:* [${pdana}]
+• *GoPay:* [${pgopay}]
 
 –––––– *🐾 Kebijakan* ––––––
 🗣️: Kak, Kok harganya mahal banget?
