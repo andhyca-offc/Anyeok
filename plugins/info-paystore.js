@@ -31,8 +31,8 @@ let info = `
 
 *⫹⫺ PAYMENT:*
 • *Pulsa:* [${ppulsa}]
-• *Dana:* [${pdana}]
-• *GoPay:* [${pgopay}]
+• *Dana:* [${pdana}] Qr: https://telegra.ph/file/4d91b25a776179f342588.jpg
+• *GoPay:* [${pgopay}] Qr: https://telegra.ph/file/0f1f1b37a5577c73be0f6.jpg
 
 –––––– *🐾 Kebijakan* ––––––
 🗣️: Kak, Kok harganya mahal banget?
@@ -40,9 +40,6 @@ let info = `
 
 🗣️: Scam ga nih kak?
 💬: Enggalah
-–––––– *🗳️ Qr Payment* ––––––
-*GoPay :* https://telegra.ph/file/0f1f1b37a5577c73be0f6.jpg
-*Dana :* https://telegra.ph/file/4d91b25a776179f342588.jpg
 `
 const sections = [
    {
