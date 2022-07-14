@@ -3,7 +3,7 @@ let handler = async (m, { conn }) => {
 //sewa
 let sh = '5'
 let sn = '15'
-let ss = '30'
+let ss = '23'
 let sp = '35'
 let sv = '50'
 //premium
