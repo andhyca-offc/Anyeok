@@ -120,7 +120,7 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝐀𝐧𝐝𝐡𝐲𝐜𝐚𝐁�
 global.wm3 = '⫹⫺ 𝐴𝑛𝑑ℎ𝑦𝑐𝑎 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗧𝗶𝗺𝗲 𝗦𝗲𝗿𝘃𝗲𝗿 : ${wktuwib}\n⫹⫺ 𝗗𝗮𝘁𝗲 𝘀𝗲𝗿𝘃𝗲𝗿: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
+global.titlebot = '⫹⫺ 「𝐀𝐧𝐝𝐡𝐲𝐜𝐚𝐁𝐨𝐭𝐳-𝐌𝐝ོ | Andhycaᵍᵃⁿᶻ」'
 global.author = global.wm
 
 
@@ -152,7 +152,7 @@ global.fpagedoc = '999'
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
 global.dmenut = '❏═┅═━–〈' //top
-global.dmenub = '┊•' //body
+global.dmenub = '┊ˡ•' //body
 global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
 
