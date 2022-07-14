@@ -120,7 +120,7 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝐀𝐧𝐝𝐡𝐲𝐜𝐚𝐁�
 global.wm3 = '⫹⫺ 𝐴𝑛𝑑ℎ𝑦𝑐𝑎 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗧𝗶𝗺𝗲 𝗦𝗲𝗿𝘃𝗲𝗿 : ${wktuwib}\n⫹⫺ 𝗗𝗮𝘁𝗲 𝘀𝗲𝗿𝘃𝗲𝗿: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '⫹⫺ 「 𝐀𝐧𝐝𝐡𝐲𝐜𝐚𝐛𝐨𝐭𝐳ོ | Andhyca 」'
+global.titlebot = '⫹⫺ 「 𝐀𝐧𝐝𝐡𝐲𝐜𝐚𝐛𝐨𝐭𝐳-𝐌𝐝ོ | © Andhycaᵍᵃⁿᶻ 」'
 global.author = global.wm
 
 
