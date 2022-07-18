@@ -1059,7 +1059,7 @@ sourceUrl: sgc
     let msgg = {
     	unreg: '❗ᴀᴋꜱᴇꜱ ᴅɪ ᴛᴏʟᴀᴋ, ᴀɴᴅᴀ ᴘᴇʀʟᴜ ᴠᴇʀɪꜰɪᴋᴀꜱɪ ꜱᴇʙᴇʟᴜᴍ ᴍᴇɴɢɢᴜɴᴀᴋᴀɴ ꜰᴀɴɢᴢ ʙᴏᴛ\n\n📮➞ ᴋʟɪᴄᴋ ᴠᴇʀɪꜰɪᴋᴀꜱɪ ᴅɪ ʙᴀᴡᴀʜ ɪɴɪ'
 }[type]
-if (msgg) return conn.sendButton(m.chat, `${global.htki} VERIFY ${global.htka}`, msgg, null, ['- ᴠᴇʀɪғʏ -', '/verify'],m)
+if (msgg) return conn.sendButton(m.chat, `${global.htki} VERIFY ${global.htka}`, msgg, null, ['▣ ᴠᴇʀɪғʏ ▣', '/verify'],m)
 }
 
 let file = global.__filename(import.meta.url, true)
